@@ -1,0 +1,22 @@
+11 specs, 0 failures, randomized with seed 14736
+EmployeeComponent
+should show full name
+should create
+
+
+DepartmentComponent
+should change the boolean value on each click
+message should be modified when we change the boolean
+
+
+AppComponent
+should render title
+should create the app
+should have the 'AngularTesting' title
+
+
+ApiService
+ApiService getUsersProm should return the value of the API in the form of a Promise
+should be created
+getSimpleValue should return the text in uppercase
+getUsers should return the API value in the form of an Observable
